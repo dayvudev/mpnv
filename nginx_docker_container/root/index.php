@@ -1,0 +1,1 @@
+Nginx static site
